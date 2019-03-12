@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{169FEE84-4D2E-2DC7-15C9-1974A7C11926}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/temperatureControl.cs">
+    <Files>
+      <File FileName="Assets/Scripts/temperatureControl.cs" Line="20" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
